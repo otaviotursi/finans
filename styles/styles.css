@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    background-color: #F2BF27;
+}
+
+.menu{
+    font-size: 1.2rem;
+}
+
+.menu button{
+    font-size: 1.2rem;
+}
+
+.conteudo1{
+    background-color: #F2BF27;
+}
+
+.caixa{
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+footer{
+    background-color: white;
+    width: 100%;
+    height: 100px;
+}
